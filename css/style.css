@@ -30,24 +30,19 @@ body {
 
 #main-bio {
     float: left;
-    width: 30%;
-    padding: 10px;
+    width: 70%;
 }
 
 #contact-info {
     float: left;
     width: 30%;
-    padding-left: 10px;
 }
 
 #bio-image {
     float: left;
-    width: 30%;
-}
-
-#image {
     width: 200px;
-    height: 200px; 
+    height: 200px;
+    margin-right: 20px;
 }
 
 a {
